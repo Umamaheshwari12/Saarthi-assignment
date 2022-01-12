@@ -1,2 +1,2 @@
-# Saarthi-assignment
-Assignment
+# SAARTHI-assignment
+saarthi assignment
